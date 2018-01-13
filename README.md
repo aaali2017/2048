@@ -1,6 +1,12 @@
 # 2048
 A clone of the game 2048.  Stanford University uploaded this exercise for CS0 students to familiarize with Python and OOP concepts.  Seeing as the project was open on the internet, I decided to have a crack at it.
 
+Using the code:
+
+To run, python starter_2048.py
+
+To test, python autograder.py 	
+
 Links to the original project are below:
 
 http://nifty.stanford.edu/2017/mishra-2048/    
